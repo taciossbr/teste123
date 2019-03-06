@@ -1,7 +1,2 @@
-collections_dir: caps
-
-collections:
-  - 00
-  - 01
 
 theme: jekyll-theme-minimal
